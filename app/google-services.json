@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043372665307",
+    "project_id": "testandroid-c4014",
+    "storage_bucket": "testandroid-c4014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043372665307:android:f6c9cbfada641abd095ffe",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043372665307-vljgcs1b4tinr42cccqq1ddt7pnbhrua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnxg-pbF_T7ga8zxpuUjMWQH5OSm4LRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043372665307-vljgcs1b4tinr42cccqq1ddt7pnbhrua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
